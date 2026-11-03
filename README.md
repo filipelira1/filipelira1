@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| 🏥 **[pep-case](https://github.com/filipelira1/pep-case)** | SaaS crítico com 13 módulos: 29 versões em 25 dias, 435 testes e QA em cada entrega, construído por uma pessoa com IA |
+| 🏥 **[pep-case](https://github.com/filipelira1/pep-case)** | SaaS crítico com 13 módulos: 32 versões em 31 dias, 445 testes e QA em cada entrega, construído por uma pessoa com IA |
 | 🩻 **[pacs-case](https://github.com/filipelira1/pacs-case)** | do pedido ao laudo: integração DICOM (Orthanc, OHIF) num prontuário, com dupla checagem de paciente e laudo por voz conferido |
 | 🧩 **[plataforma-case](https://github.com/filipelira1/plataforma-case)** | plataforma modular multi-cliente com atendente de IA no WhatsApp, motor em Python e cobrança integrada |
 | 📈 **[crm-case](https://github.com/filipelira1/crm-case)** | do formulário do site ao cliente cobrando: filas, criptografia de documentos e webhooks |
