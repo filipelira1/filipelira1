@@ -1,6 +1,6 @@
 ### Olá, sou o Filipe Lira 👋
 
-**Engenheiro de software** com mais de 8 anos de experiência construindo sistemas que não podem errar. Escolho a tecnologia pelo problema; o que levo para qualquer stack é o processo: critério antes do código, teste que decide e erro que vira regra.
+**Engenheiro de software** com mais de 8 anos de experiência construindo sistemas que não podem errar. Escolho a tecnologia pelo problema; o que levo para qualquer stack é o processo: critério antes do código, teste que decide e caminho de volta em cada versão.
 
 **O que eu entrego**
 
@@ -16,7 +16,7 @@
 
 | | |
 |---|---|
-| 🏥 **[pep-case](https://github.com/filipelira1/pep-case)** | SaaS crítico com 13 módulos: 32 versões em 31 dias, 445 testes e QA em cada entrega, construído por uma pessoa com IA |
+| 🏥 **[pep-case](https://github.com/filipelira1/pep-case)** | SaaS crítico com 13 módulos: 33 versões em 34 dias e 461 testes até 06/11/2026, com QA em cada entrega, construído por uma pessoa com IA |
 | 🩻 **[pacs-case](https://github.com/filipelira1/pacs-case)** | do pedido ao laudo: integração DICOM (Orthanc, OHIF) num prontuário, com dupla checagem de paciente e laudo por voz conferido |
 | 🧩 **[plataforma-case](https://github.com/filipelira1/plataforma-case)** | plataforma modular multi-cliente com atendente de IA no WhatsApp, motor em Python e cobrança integrada |
 | 📈 **[crm-case](https://github.com/filipelira1/crm-case)** | do formulário do site ao cliente cobrando: filas, criptografia de documentos e webhooks |
