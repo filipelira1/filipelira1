@@ -18,13 +18,14 @@
 |---|---|
 | 🏥 **[pep-case](https://github.com/filipelira1/pep-case)** | SaaS crítico com 13 módulos: 33 versões em 34 dias e 461 testes até 06/11/2026, com QA em cada entrega, construído por uma pessoa com IA |
 | 🩻 **[pacs-case](https://github.com/filipelira1/pacs-case)** | do pedido ao laudo: integração DICOM (Orthanc, OHIF) num prontuário, com dupla checagem de paciente e laudo por voz conferido |
+| 🦴 **[atlas-case](https://github.com/filipelira1/atlas-case)** | atlas de anatomia em 3D no navegador: quase 3 mil estruturas em português, de um arquivo de 307 MB a uma primeira tela de 0,57 MB ([no ar](https://complet.app.br/atlas/)) |
 | 🧩 **[plataforma-case](https://github.com/filipelira1/plataforma-case)** | plataforma modular multi-cliente com atendente de IA no WhatsApp, motor em Python e cobrança integrada |
 | 📈 **[crm-case](https://github.com/filipelira1/crm-case)** | do formulário do site ao cliente cobrando: filas, criptografia de documentos e webhooks |
 | 🏫 **[mermaid-case](https://github.com/filipelira1/mermaid-case)** | gestão de dados sensíveis com IA em camadas e auditável |
 
 **Stack**
 
-`PHP 8.3` `Laravel` `Python` `FastAPI` `Vue 3` `TypeScript` `PostgreSQL` `MySQL` `SQL Server` `Redis` `Docker` `Linux` `PHPUnit` `Playwright` `Git`
+`PHP 8.3` `Laravel` `Python` `FastAPI` `Vue 3` `TypeScript` `three.js` `PostgreSQL` `MySQL` `SQL Server` `Redis` `Docker` `Linux` `PHPUnit` `Playwright` `Git`
 
 **Contato**
 
